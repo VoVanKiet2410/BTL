@@ -209,9 +209,7 @@ Vào trang web tải Git chọn mục Downloads > Chọn Tải xuống Git phiê
 
 <p align="right">(<a href="#readme-top">Trở lại đầu trang</a>)</p>
 
-## Cách sử dụng
 
-Cách sử dụng: <a href="https://drive.google.com/file/d/1ujvCg9tUIk7WAV605QDictNkxhNzEWBH/view?usp=sharing" >Link PDF báo cáo</a>
 
 <p align="right">(<a href="#readme-top">Trở lại đầu trang</a>)</p>
 
