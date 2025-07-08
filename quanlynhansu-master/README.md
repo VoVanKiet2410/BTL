@@ -233,12 +233,9 @@ Vào trang web tải Git chọn mục Downloads > Chọn Tải xuống Git phiê
 
 
 
-## Nhóm
 
-Các thành viên nhóm:
-- Lã Đức Nam (Leader)
-- Phạm Hồng Nghĩa
-- Dương Văn Nam
+
+
 
 Nếu có đề xuất nào có thể cải thiện điều này, vui lòng rẽ nhánh repo và tạo yêu cầu Pull. Đừng quên cho dự án một ngôi sao! Cảm ơn!
 
