@@ -255,13 +255,7 @@ Nếu có đề xuất nào có thể cải thiện điều này, vui lòng rẽ
 
 <p align="right">(<a href="#readme-top">Trở lại đầu trang</a>)</p>
 
-## Liên hệ
 
-Lã Đức Nam - [@laducnam](https://www.linkedin.com/in/l%C3%A3-%C4%91%E1%BB%A9c-nam-9b27b4219/) - ducnamla2@gmail.com
-
-Project Link: [https://github.com/assassinnyt2811/quanlynhansu](https://github.com/assassinnyt2811/quanlynhansu)
-
-<p align="right">(<a href="#readme-top">Trở lại đầu trang</a>)</p>
 
 ## Tài nguyên hữu ích
 
